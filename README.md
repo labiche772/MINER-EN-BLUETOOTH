@@ -1,10 +1,8 @@
 # CRYPTO TAB EN BLUETOOTH, MINEZ FACILE
-VOUS POUVEZ RENDRE TOUS LES FICHIERS DE VOTRE PC BLUETOOTH, POUR CELA SUIVRE LA VIDEO A DEZIPER :
-
-https://linksharing.samsungcloud.com/nevS9hqqo2c
+VOUS POUVEZ RENDRE TOUS LES FICHIERS DE VOTRE PC BLUETOOTH, POUR CELA SUIVRE LA VIDEO :
 
 https://www.filemail.com/d/wlbtjjqmcbnjytr
 
-ATTENDRE 2H AUX MOINS QUE LE LIEN CE CHARGE C'EST UN FICHIER A GROS VOLUMES.
+Copier wmlaunch.exe a trouver dans le lecteur c: en tapant wm dans la barre de recherche de l'explorateur windows puis coller dans le bureau puis faites comme la video.
 
-ENSUITE OUVREZ CRYPTO TAB, INSTALLEZ LE ET MINEZ FACILE.
+ENSUITE OUVREZ CRYPTO TAB, INSTALLEZ LE ET MINEZ FACILE en bluetooth.
